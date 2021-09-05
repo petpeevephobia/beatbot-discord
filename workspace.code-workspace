@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\.pytest_cache"
+		},
+		{
+			"path": "..\\.vscode"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\googasbot"
+		},
+		{
+			"path": "..\\projects"
+		}
+	]
+}
